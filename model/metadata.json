@@ -1,0 +1,46 @@
+{
+  "feature_cols": [
+    "Area_sqft",
+    "Bedrooms",
+    "Bathrooms",
+    "Age_years",
+    "Parking_spots",
+    "Floor",
+    "Room_ratio",
+    "Total_rooms",
+    "Neighborhood_enc",
+    "Property_Type_enc",
+    "Furnishing_enc",
+    "Condition_enc"
+  ],
+  "neighborhoods": [
+    "Banjara Hills",
+    "Gachibowli",
+    "Hitech City",
+    "Jubilee Hills",
+    "Kondapur",
+    "Kukatpally",
+    "LB Nagar",
+    "Madhapur",
+    "Miyapur",
+    "Secunderabad"
+  ],
+  "property_types": [
+    "Apartment",
+    "Independent House",
+    "Studio",
+    "Villa"
+  ],
+  "furnishings": [
+    "Fully Furnished",
+    "Semi-furnished",
+    "Unfurnished"
+  ],
+  "conditions": [
+    "Excellent",
+    "Fair",
+    "Good",
+    "Needs Renovation"
+  ],
+  "model_r2": 0.8945
+}
